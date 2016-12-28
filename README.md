@@ -4,3 +4,4 @@ gpedit > computer configuration > windows settings > security settings
 - right click on security settings and select import GptTmpl.inf
 - right click on windows firewall with advanced security settings and select import LocalFW-Settings.wfw
 - right click on AppLocker and select import AppLocker-Policy.xml
+- expand Advanced Audit Policy Configuration, right click System Audit Policies and import AdvancedAuditing-Policy.csv
